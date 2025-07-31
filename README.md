@@ -1,1 +1,3 @@
-# Restaurant-Reservation-System-project
+#  Restaurant Reservation System
+
+The Restaurant Reservation System is a Java-based application designed to handle restaurant bookings, menu management, and customer orders efficiently. It is structured using Maven for build automation and dependency management, following standard conventions for modular and scalable backend development. The system likely supports features such as storing menu items, tracking table reservations, and processing customer requests, making it suitable for integration with a web interface or mobile front end. With a clean project structure and support for configuration files, this project demonstrates skills in Java development, file handling, and software architecture for service-oriented applications.
